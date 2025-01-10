@@ -1,4 +1,4 @@
-This repository contains all raw and processed data from the experiment conducted on the 10th of December 2024, used in the Mechanics 1b report on Oscillations.
+This repository contains all raw and processed data from the experiment conducted on the 10th of January 2025, used in the Mechanics 1b report on Gyroscopic Motion.
 
 For raw data see: 10-01-24-OS-SBJD,
 
