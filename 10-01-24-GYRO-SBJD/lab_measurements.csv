@@ -1,0 +1,6 @@
+"object","mass (kg)","m_error","distance_axis (m)","d_error","radius (m)","r_error"
+"counterweight_s",0.400,0.002,0.29,0.02,NA,NA
+"counterweight_l",0.92,0.05,0.26,0.02,NA,NA
+"mass_l1",0.297,0.002,0.198,0.009,0.019,0.001
+"mass_l2",0.297,0.002,0.335,0.005,0.019,0.001
+"disc",1.740,0.005,0.144,0.007,0.126,0.001
